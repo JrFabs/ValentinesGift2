@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ffcad4;
+    font-family: cursive;
+    position: relative;
+    color: #800f2f;
+}
+
+#container {
+    text-align: center;
+}
+
+#valentineGif {
+    width: 200px;
+    height: 200px;
+}
+
+.btn {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+#question {
+    padding: 0.5em;
+    font-size: 2vw;
+}
+
+#message {
+    font-size: 3vw;
+}
+
+button {
+    border-radius: 12px;
+    background-color: #ffcdb2;
+    border: 2px solid #b5838d;
+    color: #800f2f;
+}
+
+img {
+    border-radius: 12px;
+}
