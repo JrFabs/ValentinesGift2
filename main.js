@@ -25,6 +25,6 @@ let noButtonClickCount = 0;
             document.getElementById('container').innerHTML = `
                 <img id="valentineGif" src="https://media1.tenor.com/m/5cqhpmNH8h4AAAAC/love-hearts.gif" alt="Valentine GIF">
                 <br>
-                <p id="message">Yey! Happy Valentine's Day!<br><br>I Love You! <br> Mwa</p>
+                <p id="message">Yey! Happy Valentines Day!<br><br>I Love You! <br> Mwa</p>
             `;
         }
